@@ -8,6 +8,5 @@ and allows for the automation of generating N slices on the X-dimension without 
 
 3D rendering generated from Joe Clark's *Human Skull Photographic Print* 2D Image
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://www.youtube.com/watch?v=5E5mVVsrwZw" target="_blank"><img src="http://metalicarustech.files.wordpress.com/2014/04/youtube-logo-full_color.png?w=300" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
