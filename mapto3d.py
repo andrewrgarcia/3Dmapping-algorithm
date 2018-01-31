@@ -12,7 +12,7 @@ import matplotlib.image as mpimg
 #pickle.dump( img1, open( "jcskull.p", "wb" ) )
 
 'loading encrypted image'
-img1 = pickle.load( open( "jcskull.p", "rb" ) )
+img1 = pickle.load( open( "jcskull.p", "rb" ),encoding='latin1')
 'converting image to binary'
 lum_img1 = img1[:,:,0]
 
