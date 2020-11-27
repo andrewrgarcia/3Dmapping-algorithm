@@ -8,11 +8,11 @@ from mpl_toolkits.mplot3d import Axes3D
 
 'converting image to code; in command line:'
 import matplotlib.image as mpimg
-#img1 = mpimg.imread("O36062_640.png")
-#pickle.dump( img1, open( "pat.p", "wb" ) )
+img1 = mpimg.imread("images/catglasses.png")
+pickle.dump( img1, open( "cat.p", "wb" ) )
 
 'loading encrypted image'
-img1 = pickle.load( open( "jcskull.p", "rb" ) )
+# img1 = pickle.load( open( "jcskull.p", "rb" ) )
 
 lum_img1 = img1[:,:,0]
 x=[]
@@ -23,8 +23,8 @@ y=[]
 #px=175
 #py=167
 
-px=244
-py=244
+px=688
+py=688
 
 for i in range(py):
     for j in range(px):
