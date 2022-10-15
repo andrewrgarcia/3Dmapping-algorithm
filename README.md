@@ -1,3 +1,7 @@
+# ANNOUNCEMENT : This project is now deprecated
+
+This project is now deprecated. For a more functional application of this project, please re-direct to [**voxelmaps**](https://github.com/andrewrgarcia/voxelmap) and use the **voxelmaps.Image('yourfilepath.png')** object and its ->make() and ->map3d() functions to map images to 3-D models. 
+
 # 3Dmapping-algorithm
 This code shows an algorithm for importing and mapping 2D images to 3D plots. Mapping algorithm: maps 2D binary image to 3D form by transforming relative pixel color to depth.
 
