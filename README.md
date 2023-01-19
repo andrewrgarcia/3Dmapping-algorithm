@@ -2,7 +2,7 @@
 
 This project is now deprecated. For a more functional application of this project, please re-direct to [**voxelmap**](https://github.com/andrewrgarcia/voxelmap) and use the **voxelmap.Image('yourfilepath.png')** object and its ->make() and ->map3d() functions to map images to 3-D models. 
 
-<center><a href="https://andrewatcloud.com/voxelmap/"><img src="https://github.com/andrewrgarcia/voxelmap/blob/main/extra/land_ImageMesh.png?raw=true" width="800"></a></center>
+<center><a href="https://github.com/andrewrgarcia/voxelmap"><img src="https://github.com/andrewrgarcia/voxelmap/blob/main/extra/land_ImageMesh.png?raw=true" width="800"></a></center>
 
 # 3Dmapping-algorithm
 This code shows an algorithm for importing and mapping 2D images to 3D plots. Mapping algorithm: maps 2D binary image to 3D form by transforming relative pixel color to depth.
